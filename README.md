@@ -11,6 +11,16 @@
 
 <hr>
 
+<h2 align="center">📚 My tech stack </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+</p>
+<p align="center">TailwindCSS, Python, Docker, Git, Github, Nodejs, ML librairies (Keras, NumPy, Pandas, Scikit-Tearn, TensorFlow) .</p>
+
+<hr>
+
 <h2 align="center"> 📈 Some statistics </h2>
 <p align="center">
   
