@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
 </p>
-<p align="center">TailwindCSS, Python, Docker, Git, Github, Nodejs, ML librairies (Keras, NumPy, Pandas, Scikit-Tearn, TensorFlow) .</p>
+<p align="center">Python, Docker, Git, Github, Nodejs, ML librairies (Keras, NumPy, Pandas, Scikit-Tearn, TensorFlow).</p>
 
 <hr>
 
