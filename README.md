@@ -4,7 +4,9 @@
 
 <h2 align="center"> 👨‍💻 About Me </h2>
 <p align="center">
-  <samp>French junior frontend developer based in Barcelona. Passionate about web development and learning new languages (both spoken and programming). Always looking to improve skills and stay up-to-date with industry trends.</samp>
+  <samp>French software engineer based in Barcelona. Passionate about web development and learning new languages (both spoken and programming). Always looking to improve skills and stay up-to-date with industry trends.</samp>
+  <br> <br>
+  <samp>Currently working @ Oracle in their health division as a Production Software Engineer, supporting global healthcare clients by troubleshooting systems, ensuring patient care continuity, safeguarding data, querying databases (CCL), and managing 20+ tickets daily for efficient resolution</samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=Giovanni-jpg" alt="https://github.com/Giovanni-jpg" />
 </p>
